@@ -1,5 +1,5 @@
 # ResNet50ViT: Vision Transformer with ResNet50 in TensorFlow
-The repository contains the code for the implementation of ResNet50-ViT in the TensorFlow framework.
+The repository contains the code for the implementation of ResNet50 Vision Transformer in the TensorFlow framework.
 
 - Arxiv Paper: [AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
 - Blog Post: [Vision Transformer](https://idiotdeveloper.com/vision-transformer-an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale/) by Idiot Developer
